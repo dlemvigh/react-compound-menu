@@ -1,6 +1,5 @@
 import Footer from "../layout/Footer";
 
-import "./App.css";
 import { Navigation } from "./Navigation";
 import { TabExamples } from "./TabExamples";
 
