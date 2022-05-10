@@ -1,13 +1,13 @@
 import Footer from "../layout/Footer";
 
-import { Navigation } from "./Navigation";
+import { NavigationExample } from "./NavigationExample";
 import { TabExamples } from "./TabExamples";
 
 export function HomePage() {
   return (
     <div className="App">
       <header className="App-header">
-        <Navigation />
+        <NavigationExample />
       </header>
       <main className="App-main">
         <TabExamples />

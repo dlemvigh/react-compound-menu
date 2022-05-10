@@ -1,7 +1,7 @@
 import Card from "../../components/Card";
 import Nav from "../../components/Nav";
 
-export function Navigation() {
+export function NavigationExample() {
   return (
     <Card style={{ padding: 16 }}>
       <Nav>
